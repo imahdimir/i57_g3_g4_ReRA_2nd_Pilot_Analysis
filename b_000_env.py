@@ -24,6 +24,8 @@ class FilePath :
     m4__total_track_time = d.med / 'm4__total_track_time.xlsx'
 
     t1__survey_times_by_track_and_all__tex = d.out_tbl / 't1__survey_times_by_track_and_all.tex'
+    t2__payments__xlsx = d.out_tbl / 't2__payments.xlsx'
+    t3__payments__tex = d.out_tbl / 't3__payments.tex'
 
 
 class Constants :
