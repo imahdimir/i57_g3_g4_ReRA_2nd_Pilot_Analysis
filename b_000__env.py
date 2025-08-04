@@ -22,10 +22,14 @@ class FilePath :
 
     m3__participant_code_track_map = d.med / 'm3__participant_code_track_map.xlsx'
     m4__total_track_time = d.med / 'm4__total_track_time.xlsx'
+    m5__cln_page_times_2__xlsx = d.med / 'm5__cln_page_times_2.xlsx'
 
     t1__survey_times_by_track_and_all__tex = d.out_tbl / 't1__survey_times_by_track_and_all.tex'
     t2__payments__xlsx = d.out_tbl / 't2__payments.xlsx'
     t3__payments__tex = d.out_tbl / 't3__payments.tex'
+    t4__participant_with_few_pages_shown__tex = d.out_tbl / 't4__participant_with_few_pages_shown.tex'
+    t5__payments_46count__xlsx = d.out_tbl / 't5__payments_46count.xlsx'
+    t6__payments_46count__tex = d.out_tbl / 't6__payments_46count.tex'
 
 
 class Constants :
